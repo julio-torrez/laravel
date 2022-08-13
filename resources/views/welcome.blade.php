@@ -45,7 +45,7 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 25px;
             }
 
             .links > a {
@@ -60,6 +60,7 @@
 
             .m-b-md {
                 margin-bottom: 30px;
+                color: #666f6f;
             }
         </style>
     </head>
