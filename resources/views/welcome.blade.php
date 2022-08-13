@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   JULIO CESAR TORREZ TORRICO
+                   JULIO CESAR TORREZ TORRICO 
+                   ESTUDIANTE DE UMSS
                 </div>
 
                 <div class="links">
